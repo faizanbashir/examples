@@ -382,5 +382,10 @@
     "name": "Serverless Instagram Crawler",
     "description": "Instagram hashtag Crawler with Lambda & DynamoDB.",
     "githubUrl": "https://github.com/kimcoder/serverless-instagram-crawler"
+  },
+  {
+    "name": "Python SES DynamoDB Contact Form",
+    "description": "Serverless Framework SES and DynamoDB Contact Form.",
+    "githubUrl": "https://github.com/faizanbashir/python-ses-dynamodb-contactform"
   }
 ]
